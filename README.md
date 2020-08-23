@@ -15,7 +15,7 @@ I'm a web developer specializing in C#/.Net Core, Vue.js and Blazor
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![johnmcraig's github stats](https://github-readme-stats.vercel.app/api?username=johnmcraig&show_icons=true&theme=cobalt)
+![johnmcraig's github stats](https://github-readme-stats.vercel.app/api?username=johnmcraig&show_icons=true&theme=tokyonight)
 <!--
 **johnmcraig/johnmcraig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
