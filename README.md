@@ -1,8 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm John Craig </h1>
 
 <p align="center">I'm a web developer specializing in C#/.Net Core, Vue.js, and Blazor</p>
-<hr/>
-
 <!-- <img src="https://komarev.com/ghpvc/?username=johnmcraig&label=Profile+Views" /> -->
 <br/>
 
@@ -26,4 +24,3 @@ I’m currently experimenting with:
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmcraig&layout=compact&hide=html)
 
 ![johnmcraig's github stats](https://github-readme-stats.vercel.app/api?username=johnmcraig&show_icons=true&theme=tokyonight)
-
