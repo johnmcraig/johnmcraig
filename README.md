@@ -1,7 +1,9 @@
 <h1 align="center"> Hi there 👋, I'm John Craig </h1>
 
-<h3 align="center">I'm a web developer specializing in C#/.Net Core, Vue.js, Angular and Blazor</h3>
+<p align="center">I'm a web developer specializing in C#/.Net Core, Vue.js, and Blazor</p>
+<hr/>
 
+<!-- <img src="https://komarev.com/ghpvc/?username=johnmcraig&label=Profile+Views" /> -->
 <br/>
 
 [![visitors](https://vistr.dev/badge?repo=johnmcraig.johnmcraig&corners=square)](https://github.com/johnmcraig/vistr.dev)
@@ -11,11 +13,13 @@
 
 <br />
 
-🌱 I’m currently learning:
+I’m currently experimenting with:
 
 - Blazor WebAssembly with C#/ASP.Net Core 3.1
 
-- How to contribute more to Open Source
+- Dapper & SQL
+
+- Clean Architecture with hexagonal/onion and CQRS patterns
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
@@ -23,17 +27,3 @@
 
 ![johnmcraig's github stats](https://github-readme-stats.vercel.app/api?username=johnmcraig&show_icons=true&theme=tokyonight)
 
-<!--
-**johnmcraig/johnmcraig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
