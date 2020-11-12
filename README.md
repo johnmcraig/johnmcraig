@@ -20,10 +20,10 @@ I’m currently experimenting with:
 
 - Dapper & SQL
 
-- Clean Architecture with hexagonal/onion and CQRS patterns
+- Clean Architecture with hexagonal/onion design style
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Some Nice Stats
 
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmcraig&layout=compact&hide=html)
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmcraig&theme=tokyonight&layout=compact&hide=html)
 
 ![johnmcraig's github stats](https://github-readme-stats.vercel.app/api?username=johnmcraig&show_icons=true&theme=tokyonight)
