@@ -20,9 +20,9 @@ I’m currently developing with:
 
 - Dapper & SQL
 
-- Clean Architecture with hexagonal/onion design patterns
+- Clean Architecture
 
-## Some Nice Stats
+## Some Cool Stats
 
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmcraig&theme=tokyonight&layout=compact&hide=html)
 
